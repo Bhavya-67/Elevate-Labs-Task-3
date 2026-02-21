@@ -1,1 +1,0 @@
-<Content of the Web Scraper for News Headlines file goes here>
